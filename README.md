@@ -68,13 +68,13 @@ Hearthstone Memory е виндоус формс апликација работ�
 <img src="http://i.imgur.com/KsnyCQl.png alt="Start Screen"/> </li>
 <li> Лоадинг екран:<br />
 <img src="http://i.imgur.com/efUZPvs.png"alt="Loading Screen"/> </li>
-<li> Главен екран: <br />
+<li> Главен екран:    (точно избраните карти остануваат отворени) <br />
 <img src="http://i.imgur.com/uvEYWgl.png"alt="Main Screen"/> </li>
 <li> Крај на играта: <br />
 <img src="http://i.imgur.com/eJ6cn2U.png"alt="End Screen"/> </li>
-<li> Card hover:<br />
+<li> Card hover:  маусот се наоѓа на картата во 2-ри ред 4-та колона и таа карта е поголема  <br />
 <img src="http://i.imgur.com/Vm3OI16.png"alt="Card hover Screen"/> </li>
-<li> Button hover:<br />
+<li> Button hover: Копчето јес е посветло бидејки маусот се наоѓа над него <br />
 <img src="http://i.imgur.com/Cdjjc2A.png" alt="Button hover Screen"/> </li>
 </ul> 
  
