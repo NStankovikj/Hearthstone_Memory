@@ -78,8 +78,7 @@ Hearthstone Memory е виндоус формс апликација работ�
 <img src="http://i.imgur.com/Cdjjc2A.png" alt="Button hover Screen"/> </li>
 </ul> 
  
-
-==============================================================
+#License
 This program is distributed in the hope that it will be useful,
 but WITHOUT ANY WARRANTY; without even the implied warranty of
 MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the
